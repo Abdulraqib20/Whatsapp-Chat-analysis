@@ -1,0 +1,1 @@
+This repository involves the analysis of the chats in the WhatsApp group of my friends with Python.
